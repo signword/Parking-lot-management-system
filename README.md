@@ -44,4 +44,4 @@ void timestats();按照到达时间进行统计
 
 ### 三、成果展示
 
-![image]()
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/图片1.png)
