@@ -45,3 +45,19 @@ void timestats();按照到达时间进行统计
 ### 三、成果展示
 
 ![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/1.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/2.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/3.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/4.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/5.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/6.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/7.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/8.png)
+
+![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/9.png)
