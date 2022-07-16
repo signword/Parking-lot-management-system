@@ -61,3 +61,8 @@ void timestats();按照到达时间进行统计
 ![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/8.png)
 
 ![image](https://github.com/signword/Parking-lot-management-system/blob/main/images/9.png)
+
+### 四、体会与感想
+虽然题目不长，需要实现的功能也比较简陋，但是我仍然花了很多的时间，而最后写完后的代码长度是我没想到过的长，期间还出了许多小bug，结果就是翻来覆去的改，感觉写代码真的挺需要细心和耐心的，这方面我还有所欠缺，需要改善。
+
+最开始的时候，我没想过会要写这么多的代码，就全放在一个文件里写，结果函数越写越多，代码也越写越长，最后已经到了从上翻到下需要好一会的地步了，我这才想起去网上搜索如何实现多个页面，经过一系列的尝试，终于把项目建好了，代码变得清晰了多，调试也变得更方便了
